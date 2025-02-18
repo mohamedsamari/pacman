@@ -1,0 +1,9 @@
+Emily 10
+Emily 10
+Alice 130
+Emily 920
+Jane 20
+John 1480
+Jane 100
+Bob 160
+Alice 870
